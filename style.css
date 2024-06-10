@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: "Rubik";
+}
+
+img{
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+    border-radius: 30px;
+}
+
+h1{
+    text-align: center;
+    font-family: "Rubik";
+}
+p{
+    text-align: center;
+    font-family: "Rubik";
+}
+a{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+li{
+    list-style: none;
+}
+audio{
+    width: 40%;
+    margin: 30px auto;
+    display: block;
+
+}
+video{
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+    border-radius: 30px;
+}
+
+li a{
+    background-color: #0066ff;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+}
